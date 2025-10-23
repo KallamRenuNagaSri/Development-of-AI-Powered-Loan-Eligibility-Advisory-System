@@ -48,3 +48,9 @@ cd web_frontend
 python -m http.server 8001
 
 Open your browser and go to http://localhost:8001.
+
+## 🎥 Demo Video
+[Watch the video demo](https://drive.google.com/file/d/1HUjIm4oGDf9BhR7Thco1qSdC4UAkxo6U/view?usp=drive_link)
+
+## 🚀 Live Deployment
+[View the project here](https://ai-credit-underwriting-system.onrender.com)
