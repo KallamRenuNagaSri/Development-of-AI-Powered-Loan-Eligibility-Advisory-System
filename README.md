@@ -24,7 +24,7 @@ This is a complete, real-time credit underwriting application designed for a ban
 [Watch the video demo](https://drive.google.com/file/d/1HUjIm4oGDf9BhR7Thco1qSdC4UAkxo6U/view?usp=drive_link)
 
 ## 🚀 Live Deployment
-[View the project here](https://ai-credit-underwriting-system.onrender.com
+[View the project here](https://ai-credit-underwriting-system.onrender.com)
 
 ## Local Setup & Run Instructions
 
